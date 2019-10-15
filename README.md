@@ -13,6 +13,8 @@
  [https://github.com/gabimarti/Demons-eye-keylogger](https://github.com/gabimarti/Demons-eye-keylogger)
  
  Toda la información contenida aquí se provee con objetivos académicos.
+ En ningun caso seré responsable del uso irresponsable de este proyecto.  
+ **SÓLO** se debe usar con fines educativos. 
  
  Si vas a usar esta información o parte de esta en algun trabajo, estudio, explicación, formación, etc., 
  por favor, cita la fuente. Gracias.
